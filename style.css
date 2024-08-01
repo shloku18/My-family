@@ -49,10 +49,7 @@ body {
     margin-left: -20px;
   }
 
-  .profile:not(:third-child) img {
-    margin-left: -20px;
-  }
-
+  
   .profile .name {
     position: absolute;
     background-color: #10996d;
